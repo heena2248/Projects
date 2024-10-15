@@ -1,0 +1,3 @@
+The project aims to apply machine learning methods to examine driving contexts and user traits obtained from an e-commerce platform. The goal is to predict the likelihood of users accepting coupons while traveling, thereby refining the strategy for coupon distribution and boosting user interaction with the platform’s services.
+
+The data encompasses various driving contexts, such as the user’s intended destination, current time, weather conditions, companions, details about the coupon, and both user-specific and situational characteristics. Users are then asked whether they would accept the coupon under these specific conditions.
